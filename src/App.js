@@ -11,7 +11,8 @@ export default class App extends PureComponent {
   render() {
     return (
       <div>
-        heloo ok ji
+        heloo 
+        Now push file are ready
       </div>
     );
   }
