@@ -11,7 +11,7 @@ export default class App extends PureComponent {
   render() {
     return (
       <div>
-        heloo ok
+        heloo ok ji
       </div>
     );
   }
