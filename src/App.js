@@ -11,9 +11,7 @@ export default class App extends PureComponent {
   render() {
     return (
       <div>
-        heloo 
-        Now push file are ready
-        this is for first branch data
+        branch
       </div>
     );
   }
