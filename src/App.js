@@ -11,6 +11,7 @@ export default class App extends PureComponent {
   render() {
     return (
       <div>
+        with master
         branch
       </div>
     );
